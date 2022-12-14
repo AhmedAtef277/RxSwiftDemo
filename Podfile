@@ -7,10 +7,9 @@ target 'RXSwiftDemo' do
 
   # Pods for RXSwiftDemo
 
-    pod 'Alamofire'
+
+pod 'Alamofire'
     pod 'RxSwift', '5.0.0'
     pod 'RxCocoa', '5.0.0'
     pod 'ProgressHUD'
-
-
 end
